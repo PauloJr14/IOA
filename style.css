@@ -84,7 +84,14 @@ li a {
     font-size: 18px;
     transition: transform 0.3s ease;
 }
-  
+
+#adiferente {
+    color: blue;
+    text-decoration: underline;
+    font-size: 18px;
+    transition: transform 0.3s ease;
+}
+
 .partesite a:hover {
     transform: scale(1.1);
 }
